@@ -39,6 +39,7 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
+    implementation("androidx.biometric:biometric-ktx:1.4.0-alpha02)
     testImplementation(libs.junit)
     androidTestImplementation(libs.runner)
     androidTestImplementation(libs.espresso.core)
