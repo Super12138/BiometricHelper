@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">@android:color/transparent</color>
+    <!--  dialog  -->
+    <color name="biometricDialogBackground">#F6F6F6</color>
+</resources>
